@@ -1,0 +1,32 @@
+! uMatrix: Ruleset recipes 1.0
+! Title: Rulesets for Chinese websites
+! Licence: CC0
+! Maintainer: sncix
+
+
+Alipay
+	alipay.com *
+		_ alicdn.com *
+		_ alicdn.com script
+		_ alipayobjects.com *
+		_ alipayobjects.com script
+
+Bilibili
+	bilibili.com *
+		_ bilivideo.com xhr
+		_ hdslb.com *
+		_ hdslb.com script
+		! Required to unbreak video playback
+		referrer-spoof: _ false
+
+Taobao
+	taobao.com *
+		_ alicdn.com *
+		_ alicdn.com script
+		! 淘宝旺旺聊天
+		_ wss-cntaobao.dingtalk.com xhr
+
+Tmall
+	tmall.com *
+		_ alicdn.com *
+		_ alicdn.com script
