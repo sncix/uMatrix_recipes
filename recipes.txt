@@ -6,7 +6,6 @@
 
 Cloudflare challenges (Turnstile)
 	* challenges.cloudflare.com
-		_ cloudflare.com cookie
 		_ challenges.cloudflare.com *
 		_ challenges.cloudflare.com script
 		_ challenges.cloudflare.com frame
