@@ -9,3 +9,11 @@ Cloudflare challenges (Turnstile)
 		_ challenges.cloudflare.com *
 		_ challenges.cloudflare.com script
 		_ challenges.cloudflare.com frame
+
+Wikipedia media
+	wikipedia.org upload.wikimedia.org
+		_ upload.wikimedia.org media
+
+Wiktionary media
+	wiktionary.org upload.wikimedia.org
+		_ upload.wikimedia.org media
