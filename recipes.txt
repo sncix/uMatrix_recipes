@@ -21,3 +21,10 @@ Wiktionary media
 World Air Quality Index
 	aqicn.org waqi.info
 		_ waqi.info xhr
+
+Youtube no account (2025)
+	youtube.com *
+		_ googlevideo.com *
+		_ ytimg.com *
+		! Otherwise video stops loading at 1 minute
+		_ www.google.com script
