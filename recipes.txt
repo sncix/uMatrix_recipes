@@ -17,3 +17,7 @@ Wikipedia media
 Wiktionary media
 	wiktionary.org upload.wikimedia.org
 		_ upload.wikimedia.org media
+
+World Air Quality Index
+	aqicn.org waqi.info
+		_ waqi.info xhr
