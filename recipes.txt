@@ -26,5 +26,5 @@ Youtube no account (2025)
 	youtube.com *
 		_ googlevideo.com *
 		_ ytimg.com *
-		! Otherwise video stops loading at 1 minute
+		! Otherwise video stops loading at 1 minute, no idea why
 		_ www.google.com script
