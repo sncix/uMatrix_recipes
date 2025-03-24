@@ -7,3 +7,9 @@ An introduction to the syntax of recipes is available in uMatrix's [wiki](https:
 The recipes in this repository are mostly intended for sncix's personal use. Please understand that there is no assurance that these recipes will be actively maintained or remain available in the future.
 
 All recipes in this repository are licensed under CC0.
+
+## Contributing
+
+You are more than welcome to report bugs and/or suggest improvements for the existing sites in the recipes.
+
+However, requests to add new sites are unsupported, as I will not be able to maintain the recipes of websites I do not visit regularly. GitHub's Discussions feature may be used to discuss websites that are not yet included.
