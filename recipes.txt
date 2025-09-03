@@ -10,6 +10,11 @@ Cloudflare challenges (Turnstile)
 		_ challenges.cloudflare.com script
 		_ challenges.cloudflare.com frame
 
+Microsoft Outlook webmail
+	outlook.office.com *
+		_ login.microsoftonline.com *
+		_ office.net *
+
 Wikipedia media
 	wikipedia.org upload.wikimedia.org
 		_ upload.wikimedia.org media
