@@ -13,7 +13,12 @@ Cloudflare challenges (Turnstile)
 Microsoft Outlook webmail
 	outlook.office.com *
 		_ login.microsoftonline.com *
-		_ office.net *
+		_ cdn.office.net *
+
+Microsoft Outlook webmail (outlook.cloud.microsoft)
+	outlook.cloud.microsoft *
+		_ login.microsoftonline.com *
+		_ cdn.office.net *
 
 Wikipedia media
 	wikipedia.org upload.wikimedia.org
